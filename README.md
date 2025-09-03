@@ -1,2 +1,13 @@
-# BitacoraDeAprendizaje
-Este es un repositorio para aplicar todo lo necesario para llegar a buen puerto.
+# Ejercicio BCI
+
+### Compilación
+
+```sh
+cd Ejercicio-BCI
+mvn package
+```
+
+### Ejecución
+```sh
+java -jar target/Ejercicio-BCI-0.0.1-SNAPSHOT.jar
+```
